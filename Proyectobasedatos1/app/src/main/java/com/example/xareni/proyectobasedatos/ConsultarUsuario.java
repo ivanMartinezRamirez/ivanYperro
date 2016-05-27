@@ -53,7 +53,7 @@ public class ConsultarUsuario extends AppCompatActivity {
             salida.setText(datos);
         }
         else{
-            Toast.makeText(getApplicationContext(),"Este usuario no se encuentra registrado",Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(),"Este usuario yaaaaaaa!!!! no se encuentra registrado",Toast.LENGTH_LONG).show();
         }
 
 
