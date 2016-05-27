@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto base datos</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registrar">Registrar</string>
+    <string name="title_activity_consultar_usuario">ConsultarUsuario</string>
+    <string name="title_activity_eliminar_usuario">EliminarUsuario</string>
+    <string name="title_activity_modificar_usuario">ModificarUsuario</string>
+</resources>
